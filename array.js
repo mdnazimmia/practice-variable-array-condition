@@ -1,6 +1,8 @@
 var cars = ['Porsche', 'Audi', 'Mercedes', 'BMW', 'Wolkswagen'];
 console.log(cars);
-console.log(cars[3]);
+// console.log(cars[3]);
+// number of elements in an Array
+console.log(cars.length);
 
 
 
